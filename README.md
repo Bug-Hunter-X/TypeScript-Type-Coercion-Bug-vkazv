@@ -1,0 +1,1 @@
+This repository demonstrates a common type-related bug in TypeScript. The `add` function is defined to accept two numbers, but the code attempts to pass a string as an argument. This leads to a runtime error or unexpected behavior if type checking isn't strictly enforced. The solution illustrates how to prevent this by improving type handling. 
